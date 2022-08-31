@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CourseLibrary.API
+build_property.ProjectDir = D:\asp-dot-net-core-6-web-api-fundamentals\asp-dot-net-core-3-advanced-restful-concerns\09\demos\start-end\CourseLibrary\CourseLibrary.API\
